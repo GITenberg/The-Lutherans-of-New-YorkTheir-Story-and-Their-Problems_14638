@@ -1,0 +1,29 @@
+_repo: The-Lutherans-of-New-YorkTheir-Story-and-Their-Problems_14638
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wenner, George Unangst
+    birthdate: 1844
+    deathdate: 1934
+    gutenberg_agent_id: '5607'
+    url: http://www.gutenberg.org/2009/agents/5607
+description: ''
+gutenberg_issued: '2005-01-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14638'
+  lccn: '18018135'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BX'
+- !lcsh 'Lutherans -- New York (State) -- New York'
+title: 'The Lutherans of New York
+
+  Their Story and Their Problems'
+url: http://www.gutenberg.org/ebooks/14638
